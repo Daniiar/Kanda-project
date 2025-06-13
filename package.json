@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Тесты Postman, запускаемые через Newman",
   "scripts": {
-    "test": "newman run collection.json"
+    "test": "newman run 'kanda project.postman_collection.json'"
   },
   "devDependencies": {
     "newman": "^6.2.2"
