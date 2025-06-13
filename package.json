@@ -6,7 +6,7 @@
     "test": "newman run 'kanda project.postman_collection.json'"
   },
   "devDependencies": {
-    "newman": "^6.2.2"
+    "newman": "*"
   }
 }
 
